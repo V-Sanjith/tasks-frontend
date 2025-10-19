@@ -28,6 +28,8 @@ A sophisticated, responsive Task Manager web application built with React 19, Ty
 - 🎪 Custom Hooks - Modular business logic separation
 
 
+
+
  🚀 Quick Start
 
  Prerequisites
@@ -52,7 +54,11 @@ A sophisticated, responsive Task Manager web application built with React 19, Ty
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:5173`
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/702cd638-c2c5-4fec-9eac-a41f31265b2e" />
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/2f90c0ce-b4a7-46d9-8a6a-493bbf792a18" />
+
 
 ### Available Scripts
 
